@@ -34,7 +34,7 @@ This repository showcases my work and projects across various domains of data sc
 
 ### 4. Data Visualization
 
-- **[Data Visualization Projects](./04_Data Visualization/)**: Projects utilizing Hadoop for big data processing and analysis.
+- **[Data Visualization Projects](./04_Data_Visualization/)**: Projects utilizing data visualization charts and graphs to support data-driven decision-making.
 
 ### 5. Applied Data Science Projects
 
