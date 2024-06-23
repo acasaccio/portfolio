@@ -32,10 +32,9 @@ This repository showcases my work and projects across various domains of data sc
 
 - **[Machine Learning Projects](./03_Machine_Learning_Projects/)**: End-to-end machine learning projects, including regression, classification, clustering, and deep learning.
 
-### 4. Big Data Projects
+### 4. Data Visualization
 
-- **[Hadoop Projects](./04_Big_Data_Projects/Hadoop_Projects/)**: Projects utilizing Hadoop for big data processing and analysis.
-- **[Spark Projects](./04_Big_Data_Projects/Spark_Projects/)**: Apache Spark-based projects for distributed computing and large-scale data analysis.
+- **[Data Visualization Projects](./04_Data Visualization/)**: Projects utilizing Hadoop for big data processing and analysis.
 
 ### 5. Applied Data Science Projects
 
