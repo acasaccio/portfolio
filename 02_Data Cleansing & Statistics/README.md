@@ -1,8 +1,8 @@
-# Data Science Projects
+# Data Cleansing and Statistics Projects
 
 ## Overview
 
-Welcome to the Data Science Projects section of my portfolio. This repository contains comprehensive projects focusing on statistical analyses in R and Python, addressing critical issues in healthcare quality measurement and opioid treatment in the United States. Here, I showcase my ability to work with large datasets, perform data cleansing, and conduct thorough analyses to provide valuable insights and actionable recommendations.
+Welcome to the Data Cleansing and Statistics section of my portfolio. This repository contains comprehensive projects focusing on statistical analyses in both R and Python, addressing critical issues in healthcare quality measurement and opioid treatment in the United States. Here, I showcase my ability to work with large datasets, combine data across multiple sources, perform data cleansing, and conduct thorough analyses to provide valuable insights and actionable recommendations.
 
 ## Contents
 
